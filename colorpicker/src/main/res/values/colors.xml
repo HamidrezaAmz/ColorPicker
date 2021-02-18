@@ -5,8 +5,8 @@
 
     <color name="colorPointer">#222222</color>
 
-    <color name="positiveButtonTextColor">@color/colorAccent</color>
-    <color name="negativeButtonTextColor">@color/colorAccent</color>
+    <color name="positiveButtonTextColor">#222222</color>
+    <color name="negativeButtonTextColor">#222222</color>
 
     <color name="bottomSheetDividerColor">@color/grey_200</color>
 </resources>
